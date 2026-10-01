@@ -1,0 +1,6 @@
+{
+  "name": "Agilizador de Fechamento de Caixa Diário",
+  "description": "Aplicação ágil para fechamento diário de caixa, controle de entradas e saídas, histórico de dias anteriores, dashboard financeiro e exportação nativa em Excel (.xlsx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
